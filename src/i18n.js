@@ -7,8 +7,7 @@ i18n
     .use(Backend)
     .init({
         backend: { loadPath: "/translations/{{lng}}.json" },
-        lng: "en",
-        fallbackLng: "en",
+        lng: "uk",
         interpolation: { escapeValue: false },
     });
 
