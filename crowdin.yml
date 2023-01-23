@@ -1,5 +1,3 @@
 files:
   - source: /public/translations/en.json
     translation: /%original_path%/%two_letters_code%.json
-  - source: /public/translations/uk.json
-    translation: /%original_path%/%two_letters_code%.json
